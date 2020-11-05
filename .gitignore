@@ -1,4 +1,6 @@
 .DS_Store
 
-!/node_modules
-!/lib
+/node_modules
+/lib
+!/lib/*.jar 
+!/lib/*.js
